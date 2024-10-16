@@ -1,4 +1,4 @@
-# STARTER-jpa03
+# jpa03-obenedek20
 
 Running at: https://jpa03-obenedek20.dokku-08.cs.ucsb.edu
 
