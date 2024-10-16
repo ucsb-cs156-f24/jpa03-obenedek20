@@ -19,5 +19,6 @@ export default function BasicLayout({ children }) {
       </Container>
       <Footer />
     </div>
+    <p>"test"</p>
   );
 }
